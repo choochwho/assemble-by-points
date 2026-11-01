@@ -1,0 +1,13 @@
+schema_version = "1.0.0"
+
+id = "assemble_by_points"
+version = "0.9.0"
+name = "Assemble by Points"
+tagline = "Fit scanned parts together by matching points"
+maintainer = "Chooch Wembley <chooch.wembley@gmail.com>"
+type = "add-on"
+
+blender_version_min = "4.2.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
+tags = ["Mesh", "Object"]
